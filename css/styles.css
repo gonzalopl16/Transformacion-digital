@@ -24,3 +24,7 @@ p{
     height: 150px;
     border-radius: 80px;
 }
+
+#header {
+    background: url(../img/header.jpg) top/ cover no-repeat;
+}
